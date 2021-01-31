@@ -59,6 +59,7 @@ could be recapped.
 - Basic CSS
   - Binding CSS to our HTML
   - CSS Rules (Selector + Declaration)
+  - Inheritance
   - Box Model
   - Selectors
     - ID and class
@@ -82,11 +83,11 @@ could be recapped.
   - order
 
 - CSS Grid
-  - Spanning up a grid: 
+  - Spanning up a grid:
     - grid-template-columns
     - grid-template-rows
     - grid-auto-rows
-  - Placing items / spanning up grid areas: 
+  - Placing items / spanning up grid areas:
     - grid-column-start / grid-column-end
     - grid-row-start / grid-row-end
     - Shorthands: grid-column & grid-row
@@ -99,6 +100,11 @@ could be recapped.
 - How to execute JavaScript files
 - Output to the console (console.log)
 - Variables & variable types
+  - Number
+  - String
+  - undefined
+  - Array
+  - Object
 - Type Conversions (string to number, etc)
 - Ternary Operator
 
@@ -108,11 +114,22 @@ could be recapped.
   - pop
   - slice
   - shift
+  - join
+  - filter
+  - reduce
+  - map
 - Decisions
-  - If / Else 
+  - If / Else
   - Switch / Case
 - Loops
   - While
   - For
   - Nested loops
   - Break / continue
+- Functions
+  - Parameters
+  - Return
+  - Callbacks
+  - Arrow Functions
+- Method Chaining
+
